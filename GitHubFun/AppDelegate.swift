@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Andres Contreras on 19/6/18.
-//  Copyright © 2018 Andres Contreras. All rights reserved.
-//
 
 import UIKit
 
